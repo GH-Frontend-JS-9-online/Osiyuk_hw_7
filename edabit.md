@@ -1,19 +1,19 @@
 # a.Conditions
   ### Chalange 1
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
+  Solution: https://www.dropbox.com/home?preview=ConditionsChalange1.png
   ### Chalange 2
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK
+  Solution: https://www.dropbox.com/h?preview=ConditionsChalange2.png
   ### Chalange 3
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/RG5NJWDa7pZGFkhTA
+  Solution: https://www.dropbox.com/h?preview=ConditionsChalange3.png
   ### Chalange 4
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/xXJLZry3vYd4erPct
+  Solution: https://www.dropbox.com/h?preview=ConditionsChalange4.png
   ### Chalange 5
-  URL: 
-  Solution:
+  URL: https://edabit.com/challenge/SLsJZd8EzW8nDoT5f
+  Solution: https://www.dropbox.com/h?preview=ConditionsChalange5.png
  # b.Arrays
   ### Chalange 1
   URL: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
