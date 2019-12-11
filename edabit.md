@@ -1,51 +1,51 @@
 # a.Conditions
   ### Chalange 1
   URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
-  Solution: https://www.dropbox.com/home?preview=ConditionsChalange1.png
+  Solution: https://www.dropbox.com/s/ivyp3z1ncc6icyn/ConditionsChalange1.png?dl=0
   ### Chalange 2
   URL: https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK
-  Solution: https://www.dropbox.com/h?preview=ConditionsChalange2.png
+  Solution: https://www.dropbox.com/s/34lovbm6toflihg/ConditionsChalange2.png?dl=0
   ### Chalange 3
   URL: https://edabit.com/challenge/RG5NJWDa7pZGFkhTA
-  Solution: https://www.dropbox.com/h?preview=ConditionsChalange3.png
+  Solution: https://www.dropbox.com/s/i3dqtpscbd2oxw6/ConditionsChalange3.png?dl=0
   ### Chalange 4
   URL: https://edabit.com/challenge/xXJLZry3vYd4erPct
-  Solution: https://www.dropbox.com/h?preview=ConditionsChalange4.png
+  Solution: https://www.dropbox.com/s/z2lv9iy6yk4zbcl/ConditionsChalange4.png?dl=0
   ### Chalange 5
   URL: https://edabit.com/challenge/SLsJZd8EzW8nDoT5f
-  Solution: https://www.dropbox.com/h?preview=ConditionsChalange5.png
+  Solution: https://www.dropbox.com/s/n4cgx0s4i69dyhd/ConditionsChalange5.png?dl=0
  # b.Arrays
   ### Chalange 1
   URL: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
-  Solution: https://www.dropbox.com/home?preview=ArrayChalange1.png
+  Solution: https://www.dropbox.com/s/dpwu79arf5bjole/ArrayChalange1.png?dl=0
   ### Chalange 2
   URL: https://edabit.com/challenge/Gpy2qSFnfhGJnWMMj
-  Solution: https://www.dropbox.com/home?preview=ArrayChalange2.png
+  Solution: https://www.dropbox.com/s/xjyk4oro2y1cbv8/ArrayChalange2.png?dl=0
   ### Chalange 3
   URL: https://edabit.com/challenge/b2NdDSdkjqFnCTfS8
-  Solution: https://www.dropbox.com/home?preview=ArrayChalange3.png
+  Solution: https://www.dropbox.com/s/58vecqhifq3shlw/ArrayChalange3.png?dl=0
   ### Chalange 4
   URL: https://edabit.com/challenge/XdAR3KohR5w7rjrFg
-  Solution: https://www.dropbox.com/home?preview=ArrayChalange4.png
+  Solution: https://www.dropbox.com/s/8fbj93w6d7ifhzb/ArrayChalange4.png?dl=0
   ### Chalange 5
   URL: https://edabit.com/challenge/zQm9YZTTFPhNtYjDr
-  Solution: https://www.dropbox.com/home?preview=ArrayChalange5.png
+  Solution: https://www.dropbox.com/s/u90qvrlx7okcs45/ArrayChalange5.png?dl=0
  # c.Loops
   ### Chalange 1
   URL: https://edabit.com/challenge/kbFhwaDyrd79JrgeB
-  Solution: https://www.dropbox.com/h?preview=LoopChalange1.png
+  Solution: https://www.dropbox.com/s/k7q6gkuval64kmq/LoopChalange1.png?dl=0
   ### Chalange 2
   URL: https://edabit.com/challenge/ydBcGvv3n447nbxCy
-  Solution: https://www.dropbox.com/h?preview=LoopChalange2.png
+  Solution: https://www.dropbox.com/s/bwafvdueqodi8mq/LoopChalange2.png?dl=0
   ### Chalange 3
   URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
-  Solution: https://www.dropbox.com/h?preview=LoopsChalange3.png
+  Solution: https://www.dropbox.com/s/rq31bgjhk7uf87p/LoopsChalange3.png?dl=0
   ### Chalange 4
   URL: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL
-  Solution: https://www.dropbox.com/h?preview=LoopsChalange4.png
+  Solution: https://www.dropbox.com/s/fzhbbnoqxaem1n9/LoopsChalange4.png?dl=0
   ### Chalange 5
   URL: https://edabit.com/challenge/3EQGHyiYTNc9LPmhF
-  Solution: https://www.dropbox.com/h?preview=LoopChalange5.png
+  Solution: https://www.dropbox.com/s/481qi6nobwdi1c9/LoopChalange5.png?dl=0
    # d.Functional Programming
   ### Chalange 1
   URL:
