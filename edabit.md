@@ -32,20 +32,20 @@
   Solution: https://www.dropbox.com/home?preview=ArrayChalange5.png
  # c.Loops
   ### Chalange 1
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/kbFhwaDyrd79JrgeB
+  Solution: https://www.dropbox.com/h?preview=LoopChalange1.png
   ### Chalange 2
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/ydBcGvv3n447nbxCy
+  Solution: https://www.dropbox.com/h?preview=LoopChalange2.png
   ### Chalange 3
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
+  Solution: https://www.dropbox.com/h?preview=LoopsChalange3.png
   ### Chalange 4
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL
+  Solution: https://www.dropbox.com/h?preview=LoopsChalange4.png
   ### Chalange 5
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/3EQGHyiYTNc9LPmhF
+  Solution: https://www.dropbox.com/h?preview=LoopChalange5.png
    # d.Functional Programming
   ### Chalange 1
   URL:
