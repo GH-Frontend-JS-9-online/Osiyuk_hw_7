@@ -48,27 +48,27 @@
   Solution: https://www.dropbox.com/s/481qi6nobwdi1c9/LoopChalange5.png?dl=0
    # d.Functional Programming
   ### Chalange 1
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/hzxN9bAebBPNqdQto
+  Solution: https://www.dropbox.com/s/d2rhksjpzdu6d0k/FuncProgChalange1.png?dl=0
   ### Chalange 2
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
+  Solution: https://www.dropbox.com/s/zxmyum9xbl9orzb/FuncProgChalange2.png?dl=0
   ### Chalange 3
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/tWgCG2PjN6FHq27S7
+  Solution: https://www.dropbox.com/s/f1zrosjqvnqsgra/FuncProgChalange3.png?dl=0
   ### Chalange 4
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
+  Solution: https://www.dropbox.com/s/fzhbbnoqxaem1n9/LoopsChalange4.png?dl=0
   ### Chalange 5
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/yyKv8f4FrZPDaJbDs
+  Solution: https://www.dropbox.com/s/lux7qrguo2i6m29/FuncProgChalange5.png?dl=0
    # e.Scope
   ### Chalange 1
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+  Solution: https://www.dropbox.com/s/86aro8xnilihole/ScopeChalange1.png?dl=0
   ### Chalange 2
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
+  Solution: https://www.dropbox.com/s/8yz8d33r775ren7/ScopeChalange2.png?dl=0
   ### Chalange 3
   URL:
   Solution:
@@ -80,20 +80,20 @@
   Solution:
    # f.Objects
   ### Chalange 1
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+  Solution: https://www.dropbox.com/s/82sr8gtgdj1fxze/ObjChalange1.png?dl=0
   ### Chalange 2
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+  Solution: https://www.dropbox.com/s/8sh5zbairzttlfm/ObjChalange2.png?dl=0
   ### Chalange 3
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+  Solution: https://www.dropbox.com/s/qrgstic5j9iegiy/ObjChalange3.png?dl=0
   ### Chalange 4
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/AP4hnF97anRc2mAZ6
+  Solution: https://www.dropbox.com/s/3obheia4z8rfrkh/ObjChalange4.png?dl=0
   ### Chalange 5
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/5qYYauQwYwxz3nd9R
+  Solution: https://www.dropbox.com/s/qxjjii88dycj876/ObjChalange5.png?dl=0
    # g.Classes
   ### Chalange 1
   URL:
