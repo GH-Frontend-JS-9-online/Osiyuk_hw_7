@@ -69,15 +69,6 @@
   ### Chalange 2
   URL: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
   Solution: https://www.dropbox.com/s/8yz8d33r775ren7/ScopeChalange2.png?dl=0
-  ### Chalange 3
-  URL:
-  Solution:
-  ### Chalange 4
-  URL:
-  Solution:
-  ### Chalange 5
-  URL:
-  Solution:
    # f.Objects
   ### Chalange 1
   URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
@@ -96,17 +87,5 @@
   Solution: https://www.dropbox.com/s/qxjjii88dycj876/ObjChalange5.png?dl=0
    # g.Classes
   ### Chalange 1
-  URL:
-  Solution:
-  ### Chalange 2
-  URL:
-  Solution:
-  ### Chalange 3
-  URL:
-  Solution:
-  ### Chalange 4
-  URL:
-  Solution:
-  ### Chalange 5
-  URL:
-  Solution:
+  URL: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
+  Solution: https://www.dropbox.com/s/mou5awnolq6h30w/ClassChalange1.png?dl=0
